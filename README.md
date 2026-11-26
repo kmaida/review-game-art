@@ -21,3 +21,5 @@ Target one client by keeping its `-a` flag. See the [skills CLI reference](https
 ## Use
 
 Ask your agent to use `review-game-art` when designing or reviewing a visual asset. You can also invoke `$review-game-art` in Codex or `/review-game-art` in Claude Code. For a new 3D asset, use the skill to review the final 2D concept for every required gameplay state before starting a mesh or blockout.
+
+The skill includes a standalone UI art checklist. For a full HUD or menu review, pair it with `game-ui-ux` if that skill is available.
